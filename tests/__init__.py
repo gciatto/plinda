@@ -1,5 +1,5 @@
 import unittest
-from my_project import MyClass
+from plinda import MyClass
 
 
 class TestMyClass(unittest.TestCase):
